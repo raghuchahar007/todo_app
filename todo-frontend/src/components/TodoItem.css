@@ -1,0 +1,10 @@
+.todo-item {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.todo-item.completed {
+  background-color: #dcdcdc;
+  text-decoration: line-through;
+}

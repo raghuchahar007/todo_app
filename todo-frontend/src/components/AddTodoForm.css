@@ -1,0 +1,23 @@
+.add-todo-form {
+  margin-top: 20px;
+}
+
+.add-todo-form input[type="text"],
+.add-todo-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.add-todo-form button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-todo-form button:hover {
+  background-color: #0056b3;
+}
